@@ -1,3 +1,5 @@
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+
 <h1 align="center">
 <br>
 Rocketseat - GoStack 10 - Challenge 02 
